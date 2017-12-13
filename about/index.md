@@ -1,30 +1,25 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+title: About Me 
+date: 2017-12-12
 comments: false
 ---
     
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+<center><a href="https://dhruvi1676.github.io/web/"><b>Moon</b></a> is a personal website.</center>
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+## BIO
+* Student at University of Illinois, Urbana,IL
+* Sophomore
+* Major: Mechanical Engineering 
+* Minor: Computer Science
+* Hobbies: Art, Badminton,Projects
+* From: Springfield, IL
+
 
 ## Preview
 
 {% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
+    https://scontent-ort2-2.xx.fbcdn.net/v/t1.0-9/19657057_1086693698097957_5437343726942783946_n.jpg?oh=05795f186e0ddfd3f2761f90f9507693&oe=5AD7349F
 {% endcapture %}
 {% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
 
